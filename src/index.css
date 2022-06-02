@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "Noto Serif JP";
+  src: url("assets/font/NotoSerifJP-Regular.otf");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("assets/font/Montserrat-Regular.ttf");
+}
+
+*,
+body {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Noto Serif JP";
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
